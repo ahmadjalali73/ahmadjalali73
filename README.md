@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![Numpy](https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg)
 ![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000)
-![Scikit-Learn](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000)
+![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
 ![Tensorflow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
 ![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg)
 ![Redis](https://www.vectorlogo.zone/logos/redis/redis-icon.svg)
