@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ## How's life
 - Data and Network Analyst
 - A.I enthusiast
-- 💬 Ask me about **Network Developement**
+- 💬 Ask me about **Network Developement** and **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 ## What i know
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
